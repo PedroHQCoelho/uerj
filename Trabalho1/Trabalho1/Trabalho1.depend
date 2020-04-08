@@ -1,0 +1,14 @@
+# depslib dependency file v1.0
+1505419421 source:c:\users\pedro.usuario\documents\uerj\2017.1\matemática discreta ii\trabalho1\trabalho1\main.c
+	<stdlib.h>
+
+1505425381 source:c:\users\pedro.usuario\documents\uerj\2017.1\matemática discreta ii\trabalho1\trabalho1\main.cpp
+	<iostream>
+	<list>
+	<algorithm>
+
+1505416023 source:c:\users\pedro.usuario\documents\uerj\2017.1\matemática discreta ii\trabalho1\trabalho1\listaadj.cpp
+	<iostream>
+	<list>
+	<algorithm>
+
